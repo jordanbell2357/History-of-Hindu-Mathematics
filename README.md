@@ -4,7 +4,12 @@ Bibhutibhusan Datta and Avadhesh Narayan Singh, History of Hindu Mathematics: A 
 
 Bibhutibhusan Datta and Avadhesh Narayan Singh, History of Hindu Mathematics: A Source Book, Part II: Algebra, Asia Publishing House, Bombay, 1938
 
-Part II, Section 2, p. 11:
+Mahāvīra (GSS = Ganita-sara-samgraha)
+
+![image](https://github.com/user-attachments/assets/0b9c606e-348b-4e81-bca7-7cf6382eaa45)
+
+
+Part II, Chapter III, Section 2, p. 11:
 
 > The term *varga* for "square" has an interesting origin in a purely concrete concept. The Sanskrit word *varga* literally means "rows," or "troops" (of similar things). Its application as a mathematical term originated in the graphical representation of a square, which was divided into as many *varga* or troops of small squares, as the side contained units of some measure.
 
